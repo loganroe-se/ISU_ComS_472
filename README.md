@@ -22,7 +22,7 @@ Number of People: 2
 
 # Goal of the Projects
 **Preface for ALL Projects**
-* All projects are performed with a 30x30 grid where obstacles are marked with a 1. This world map is given to each project's algorithm immediately.
+* All projects are performed with a 30x30 grid where obstacles are marked with a 1 (i.e. a world is an MxM matrix such that world[0][0] == 1 if (0, 0) contains an obstacle, else, world[0][0] == 0 to indicate no obstacle). This world map is given to each project's algorithm immediately.
 * Project I does not allow staying still, but Project II & III do. Outside of this, all projects allow 8 movements including orhtogonal & diagonal moves, all costing 1.
 
 **Project I**  
