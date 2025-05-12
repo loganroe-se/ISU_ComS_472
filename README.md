@@ -74,6 +74,6 @@ The goal of this project was to create an algorithm that could perform the follo
 # Notes
 We received first place on Project II and Project III placements are yet to be determined. In Project II, we scored nearly an average of 2.0 points, which is very good considering you can get a 0, 1, or 3 for each run. Though we did not get to see final scores for everyone, we were told that we beat the others out by a pretty decent margin, not within margin of error whatsoever.
 
-To run Projects II and III yourself, you would need to populate tom.py, jerry.py, and spike.py with valid code. This could be as simple as a DFS, BFS, randomizer, etc. or it could be as complicated as a full A*, Minimax, Minimax with Alpha-Beta Pruning, MCTS, Q-Learning, etc. Feel free to see if you could out-perform our submissions!
+To run Projects II and III yourself, you would need to populate tom.py, jerry.py, and spike.py with valid code. This could be as simple as a DFS, BFS, randomizer, etc. or it could be as complicated as a full A*, Minimax, Minimax with Alpha-Beta Pruning, MCTS, Q-Learning, or even a hybrid thereof. Feel free to see if you could out-perform our submissions (we tried everything I listed, except Q-Learning, and we couldn't so good luck)!
 
 **Disclaimer: Planner.py in each project's folder is the only code that we produced. All other code was provided by the professor, and we do not claim it as our own work. The report, however, is entirely our own work.
