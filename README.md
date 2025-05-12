@@ -76,4 +76,4 @@ We received first place on Project II and Project III placements are yet to be d
 
 To run Projects II and III yourself, you would need to populate tom.py, jerry.py, and spike.py with valid code. This could be as simple as a DFS, BFS, randomizer, etc. or it could be as complicated as a full A*, Minimax, Minimax with Alpha-Beta Pruning, MCTS, Q-Learning, or even a hybrid thereof. Feel free to see if you could out-perform our submissions (we tried everything I listed, except Q-Learning, and we couldn't so good luck)!
 
-**Disclaimer: Planner.py in each project's folder is the only code that we produced. All other code was provided by the professor, and we do not claim it as our own work. The report, however, is entirely our own work.
+**Disclaimer: Planner.py in each project's (or planners folder within projects) folder is the only code that we produced. All other code was provided by the professor, and we do not claim it as our own work. The report, however, is entirely our own work.
